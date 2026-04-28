@@ -1,0 +1,9 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  },
+  "emulator.emulatorPath": "C:\\Users\\Meron\\AppData\\Local\\Android\\Sdk\\emulator",
+  "emulator.emulatorPathWindows": "C:\\Users\\Meron\\AppData\\Local\\Android\\Sdk\\emulator"
+}
